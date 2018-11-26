@@ -1,12 +1,6 @@
 {
     "configurations": [
-        {
-            "type": "chrome",
-            "request": "attach",
-            "name": "Attach to Chrome",
-            "port": 9222,
-            "webRoot": "${workspaceFolder}"
-        },
+        
         {
             "type": "java",
             "name": "CodeLens (Launch) - Launcher",
